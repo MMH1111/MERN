@@ -5,7 +5,7 @@ class Samus extends Fighter{
         super("Samus",7,7,3,"yellow");
         this.charged = false;
     }
-//Example of polymorphism. Unique special to Samus.
+//Example of polymorphism. Special unique to Samus and different from constructor defined in Fighter class in fighter.js file.
     special(opponent){
         if(opponent instanceof Fighter){
             if(this.charged){
