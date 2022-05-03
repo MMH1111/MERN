@@ -26,6 +26,8 @@ class Fighter{
     }
 }
 
+module.exports = Fighter;
+
 // const sora = new Fighter("Sora", 3, 6, 5, "red");
 // const yoshi = new Fighter("Yoshi", 3, 5, 6, "green");
 
