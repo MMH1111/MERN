@@ -1,0 +1,29 @@
+React is a frontend framework; It's made by FB.
+Allows us to make dynamic websites.
+Others(like React): Vue, 
+What's done with React can also be done with HTML,JS
+
+Terminal Commands to create new React project
+----------------------------------------------
+cd react/
+npx create-react-app "name of project"
+
+-- if you're in the correct directory, then...
+
+
+localhost:3000
+browser will auto-load and display saved changes
+
+node modules is similar to pip
+- don't touch or change the contents of the folder
+
+cd .\MERN_May2022\ 
+git pull https://github.com/mazurasdf/MERN_May2022.git
+git pull is enough if you're in the directory
+
+//For my own GitHub repos
+// C:\Users\miche\Desktop\Coding_Dojo\assignments\MERN>
+git init
+git add .
+git commit -m "5-3-2022"
+git push
