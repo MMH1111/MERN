@@ -1,0 +1,11 @@
+How to create new React app
+
+//Command syntax
+npx create-react-app
+
+npx create-react-app first_jsx
+Project name should always be lowercase, e.g. first_jsx
+
+cd into project
+
+npm start

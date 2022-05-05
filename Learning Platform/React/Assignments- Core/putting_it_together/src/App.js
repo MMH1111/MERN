@@ -7,6 +7,7 @@ function App() {
     <div>
       <UserCard firstname="Jane" lastname="Doe" age={45} haircolor="Black"/> 
       <UserCard firstname="John" lastname="Smith" age={88} haircolor="Brown"/> 
+      <UserCard /> 
     </div>
   );
 }
